@@ -4,7 +4,7 @@ Assignment 1: Library Packaging & Publication (GitHub Packages)
 File: MathUtilsTest.java
 Student ID: 041142952
 Name: Rachid Hankir
-Instructor: (update with course instructor)
+Instructor: Ziad Ewais
 Repository: https://github.com/Hank0007AC/cst8411-assigment1-utils
 Package: edu.algonquin.cst8411:cst8411-assigment1-utils:1.0.0
 Date: 2025-11-07
