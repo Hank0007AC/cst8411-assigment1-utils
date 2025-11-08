@@ -89,7 +89,7 @@
         </plugins>
     </build>
 
-    <!-- Activer ceci APRÈS création du repo GitHub -->
+    <!-- Activer apres création du repo GitHub -->
     <distributionManagement>
         <repository>
             <id>github</id>
